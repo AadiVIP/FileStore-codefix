@@ -11,9 +11,8 @@ from config import *
 
 
 name ="""
- BY CODEFLIX BOTS
+ BY nigger BOTS
 """
-const port = process.env.PORT || 4000
 
 class Bot(Client):
     def __init__(self):
