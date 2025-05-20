@@ -23,7 +23,7 @@ APP_ID = int(os.environ.get("APP_ID", "23690578")) #Your API ID from my.telegram
 API_HASH = os.environ.get("API_HASH", "d6c1f30253ce4478c58e3560569d764c") #Your API Hash from my.telegram.org
 #--------------------------------------------
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "2250618078")) #Your db channel Id
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002250618078")) #Your db channel Id
 OWNER = os.environ.get("OWNER", "nhg_real") # Owner username without @
 OWNER_ID = int(os.environ.get("OWNER_ID", "5647525608")) # Owner id
 #--------------------------------------------
